@@ -138,9 +138,14 @@ This repo is a tutorial of emulation tools. All of those tools is for education 
 
 [Dolphin](https://github.com/dolphin-emu/dolphin)
 
+### Tools
+
+[DSUController](https://github.com/breeze2/dsu-controller-guides#run-with-dsu-manager-on-windows) for using phone as Wii Remote
+
 ## Nintendo DS
 
 ### Emulators
+
 [melonDS](https://github.com/melonDS-emu/melonDS)
 
 💀[DeSmuME](https://desmume.org/)
