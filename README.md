@@ -1,6 +1,6 @@
 # Emulation tools
 
-This repo is a tutorial of emulation tools. All of those tools is for education purposes.
+This repo is a tutorial of emulation tools. All of those tools is for education purposes. If a tools link is something like a ´github/example/repo´ refill yourself. Sometimes there's some typos, just ignore that, don't fix.
 
 ## Warning signs
 
@@ -109,6 +109,8 @@ This repo is a tutorial of emulation tools. All of those tools is for education 
 🍴💀[Suyu](https://suyu.dev/) is a fork of Yuzu
 
 ### Tools
+
+for amiibos github/AmiiboDB/Amiibo
 
 For online gaming in Yuzu-based ones
 ```
