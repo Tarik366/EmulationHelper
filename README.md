@@ -94,7 +94,7 @@ This repo is a tutorial of emulation tools. All of those tools is for education 
 
 🪪[Retro game talk](https://retrogametalk.com/repository/psx-iso/) for patched games
 
-## Nintendo Switch
+## NSwitch
 
 ### Emulators
 
@@ -102,11 +102,51 @@ This repo is a tutorial of emulation tools. All of those tools is for education 
 
 🪦Yuzu
 
+🍴[SSudachi](https://github.com/emuplace/sudachi.emuplace.app)
+
 🍴[Ryubing](https://github.com/Ryubing) is a fork of RyujinX
 
 🍴💀[Suyu](https://suyu.dev/) is a fork of Yuzu
 
-## Nintendo Wii U
+### Tools
+
+For online gaming in Yuzu-based ones
+```
+# For Yuzu
+[WebService]
+enable_telemetry\default=false
+enable_telemetry=false
+web_api_url\default=false
+web_api_url=api.ynet-fun.xyz
+yuzu_username\default=false
+yuzu_username=
+yuzu_token\default=false
+yuzu_token=
+
+# For SSudachi
+[WebService]
+enable_telemetry\default=false
+enable_telemetry=false
+web_api_url\default=false
+web_api_url=api.ynet-fun.xyz
+sudachi_username\default=false
+sudachi_username=
+sudachi_token\default=false
+sudachi_token=
+
+# For SSuyu
+[WebService]
+enable_telemetry\default=false
+enable_telemetry=false
+web_api_url\default=false
+web_api_url=api.ynet-fun.xyz
+suyu_username\default=false
+suyu_username=
+suyu_token\default=false
+suyu_token=
+```
+
+## NWii U
 
 ### Emulators
 
@@ -118,7 +158,7 @@ This repo is a tutorial of emulation tools. All of those tools is for education 
 
 [USBHelper](https://github.com/FailedShack/USBHelperInstaller) (We don't reccommend for Wii U anymore)
 
-## Nintendo 3DS
+## N3DS
 
 ###  Emulators
 
